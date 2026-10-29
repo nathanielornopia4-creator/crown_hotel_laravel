@@ -1,0 +1,5 @@
+/vendor
+/.env
+/public/build
+/public/hot
+/storage/*.key
